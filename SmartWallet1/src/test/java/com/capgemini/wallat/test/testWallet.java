@@ -1,4 +1,4 @@
-package com.capgemini.com.wallat.test;
+package com.capgemini.wallat.test;
 
 import static org.junit.Assert.*;
 

@@ -1,7 +1,7 @@
 package com.capgemini.wallet.service;
 
-import com.capgemini.com.wallet.dao.WalletDao;
 import com.capgemini.wallet.bean.WalletBean;
+import com.capgemini.wallet.dao.WalletDao;
 
 public class WalletService implements IWalletService 
 {

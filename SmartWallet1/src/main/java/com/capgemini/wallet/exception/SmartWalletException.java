@@ -1,4 +1,4 @@
-package com.capgemini.com.wallet.exception;
+package com.capgemini.wallet.exception;
 
 public class SmartWalletException extends Exception {
 	String message;

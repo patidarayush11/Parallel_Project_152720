@@ -1,9 +1,9 @@
-package com.capgemini.com.wallet.dao;
+package com.capgemini.wallet.dao;
 
 import java.util.ArrayList;
 
-import com.capgemini.com.wallet.exception.SmartWalletException;
 import com.capgemini.wallet.bean.WalletBean;
+import com.capgemini.wallet.exception.SmartWalletException;
 
 public interface IWalletDao {
 	public int addUserDetails(WalletBean user)  throws SmartWalletException;

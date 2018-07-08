@@ -1,9 +1,9 @@
-package com.capgemini.com.wallet.ui;
+package com.capgemini.wallet.ui;
 
 import java.util.Scanner;
 
-import com.capgemini.com.wallet.dao.WalletDao;
 import com.capgemini.wallet.bean.WalletBean;
+import com.capgemini.wallet.dao.WalletDao;
 import com.capgemini.wallet.service.WalletService;
 
 public class Client {
